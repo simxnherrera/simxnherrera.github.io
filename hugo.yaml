@@ -23,6 +23,7 @@ pagination:
   pagerSize: 5
 
 params:
+  favicon: /favicon.svg
   mode: toggle
   useCDN: false
   social:
