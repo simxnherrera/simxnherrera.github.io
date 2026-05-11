@@ -23,7 +23,7 @@ pagination:
   pagerSize: 5
 
 params:
-  favicon: /favicon.svg
+  favicon: /favicon.svg?v=2
   mode: toggle
   useCDN: false
   social:
@@ -33,6 +33,9 @@ params:
     - name: LinkedIn
       icon: linkedin
       url: https://www.linkedin.com/in/simón-herrera/
+    - name: Bluesky
+      icon: simple:bluesky
+      url: https://bsky.app/profile/simonherrera.bsky.social
     - name: Email
       icon: mail
       url: mailto:simxnherrera@gmail.com

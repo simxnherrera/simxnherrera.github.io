@@ -11,6 +11,9 @@ title: "Inicio"
   <a href="https://www.linkedin.com/in/simón-herrera/" aria-label="LinkedIn" title="LinkedIn" style="border-bottom: 0;">
     <svg class="feather"><use href="/svg/feather-sprite.svg#linkedin"></use></svg>
   </a>
+  <a href="https://bsky.app/profile/simonherrera.bsky.social" aria-label="Bluesky" title="Bluesky" style="border-bottom: 0;">
+    <i class="si si-bluesky"></i>
+  </a>
   <a href="mailto:simxnherrera@gmail.com" aria-label="Email" title="Email" style="border-bottom: 0;">
     <svg class="feather"><use href="/svg/feather-sprite.svg#mail"></use></svg>
   </a>
@@ -46,4 +49,3 @@ Me desempeño como **Analista de investigación y datos** en Focus Asesoramiento
 - **UN Datathon**, noviembre 2023 - *División de Estadística de las Naciones Unidas, Instituto Nacional de Estadística*
 - **Young Leaders Programme**, octubre 2023 - *College of Europe*
 - **Euromodelo Joven** - *Unión Europea, Universidad ORT*
-
