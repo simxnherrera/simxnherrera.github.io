@@ -6,6 +6,10 @@ theme: archie
 copyright: "Simón Herrera"
 enableRobotsTXT: true
 
+caches:
+  images:
+    dir: :cacheDir/images
+
 pygmentsStyle: monokai
 pygmentsCodeFences: true
 pygmentsCodeFencesGuessSyntax: true
