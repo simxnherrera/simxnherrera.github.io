@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Inicio on Simón Herrera</title><link>http://localhost:1313/</link><description>Recent content in Inicio on Simón Herrera</description><generator>Hugo</generator><language>es</language><copyright>Simón Herrera</copyright><lastBuildDate>Mon, 11 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml"/><item><title>Primer post</title><link>http://localhost:1313/blog/primer-post/</link><pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate><guid>http://localhost:1313/blog/primer-post/</guid><description>&lt;p>Este es el primer post del blog. Puedes usarlo como plantilla para nuevas entradas.&lt;/p>
+&lt;p>Para crear más publicaciones, añade archivos Markdown dentro de &lt;code>content/blog/&lt;/code> con un bloque de metadatos similar al de este archivo.&lt;/p></description></item><item><title>Contacto</title><link>http://localhost:1313/contacto/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/contacto/</guid><description>&lt;p>Por oportunidades profesionales, proyectos o colaboraciones:&lt;/p>
+&lt;p>
+ &lt;svg class="feather">&lt;use href="http://localhost:1313/svg/feather-sprite.svg#mail">&lt;/use>&lt;/svg>
+ &lt;a href="mailto:simxnherrera@gmail.com">simxnherrera@gmail.com&lt;/a>
+&lt;/p>
+&lt;p>
+ &lt;svg class="feather">&lt;use href="http://localhost:1313/svg/feather-sprite.svg#linkedin">&lt;/use>&lt;/svg>
+ &lt;a href="https://www.linkedin.com/in/simón-herrera/">LinkedIn&lt;/a>
+&lt;/p>
+&lt;p>
+ &lt;svg class="feather">&lt;use href="http://localhost:1313/svg/feather-sprite.svg#github">&lt;/use>&lt;/svg>
+ &lt;a href="https://github.com/simxnherrera">GitHub&lt;/a>
+&lt;/p>
+&lt;p>
+ &lt;svg class="feather">&lt;use href="http://localhost:1313/svg/feather-sprite.svg#phone">&lt;/use>&lt;/svg>
+ &lt;a href="tel:+59898318956">+598 98 318 956&lt;/a>
+&lt;/p></description></item><item><title>Experiencia</title><link>http://localhost:1313/experiencia/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/experiencia/</guid><description>&lt;h4 id="analista-de-investigación-y-datos">Analista de investigación y datos&lt;/h4>
+&lt;h4 id="focus-asesoramiento-sas">Focus Asesoramiento SAS&lt;/h4>
+&lt;p>agosto 2024 - presente (autónomo)&lt;/p>
+&lt;!-- Desempeñé un rol transversal en una empresa de consultoría e investigación social, participando en proyectos para clientes de alto perfil —partidos políticos, sector público y sociedad civil.
+
+Mi trabajo combinó el diseño y procesamiento de encuestas de opinión pública, moderación de grupos focales, monitoreo de medios de comunicación y elaboración de informes en el marco de proyectos de consultoría. Además, desarrollé herramientas internas, dashboards y flujos de automatización utilizando R, Shiny, Python, SQL y modelos de lenguaje (LLMs), aplicados a la minería y análisis masivo de textos y la producción de reportes.
+
+Asumí responsabilidades de carácter metodológico y técnico, pero también de coordinación, liderando un equipo de analistas en la producción de insumos orientados a la toma de decisiones de comunicación estratégica y política pública. -->
+&lt;p>Desempeño un rol transversal en una empresa de consultoría e investigación social, participando en proyectos para clientes de alto perfil —partidos políticos, sector público y sociedad civil.&lt;/p></description></item><item><title>Proyectos</title><link>http://localhost:1313/proyectos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/proyectos/</guid><description>&lt;h3 id="percepciones-ciudadanas-sobre-la-seguridad-pública-y-recomendaciones-estratégicas-para-comunicar-el-plan-nacional-de-seguridad-pública-pnsp---ministerio-del-interior---2025-2026">&lt;em>Percepciones ciudadanas sobre la seguridad pública y recomendaciones estratégicas para comunicar el Plan Nacional de Seguridad Pública (PNSP)&lt;/em> - Ministerio del Interior - 2025-2026&lt;/h3>
+&lt;p>Moderé una serie de grupos de discusión y asistí en el procesamiento de la información y la presentación de los resultados.&lt;/p>
+&lt;h3 id="análisis-documental-sobre-la-política-pública-de-drogas-de-uruguay-en-el-período-2000-2024---junta-nacional-de-drogas-y-copolad-ue---2025">&lt;em>Análisis documental sobre la política pública de drogas de Uruguay en el período 2000-2024&lt;/em> - Junta Nacional de Drogas y COPOLAD (UE) - 2025&lt;/h3>
+&lt;p>Construí una base de datos unificada para el período de 25 años analizado, a partir de actas legislativas digitalizadas, noticias de prensa del acervo de la biblioteca del Parlamento y documentos oficiales de distintos organismos del Estado, y participé en la elaboración del informe final.&lt;/p></description></item></channel></rss>

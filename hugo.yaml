@@ -1,0 +1,51 @@
+baseURL: http://localhost:1313/
+languageCode: es
+defaultContentLanguage: es
+title: "Simón Herrera"
+theme: archie
+copyright: "Simón Herrera"
+enableRobotsTXT: true
+
+pygmentsStyle: monokai
+pygmentsCodeFences: true
+pygmentsCodeFencesGuessSyntax: true
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+pagination:
+  pagerSize: 5
+
+params:
+  mode: toggle
+  useCDN: false
+  social:
+    - name: GitHub
+      icon: github
+      url: https://github.com/simxnherrera
+    - name: LinkedIn
+      icon: linkedin
+      url: https://www.linkedin.com/in/simón-herrera/
+    - name: Email
+      icon: mail
+      url: mailto:simxnherrera@gmail.com
+    - name: Teléfono
+      icon: phone
+      url: tel:+59898318956
+
+menu:
+  main:
+    - name: Inicio
+      url: /
+      weight: 1
+    - name: Experiencia
+      url: /experiencia/
+      weight: 2
+    - name: Proyectos
+      url: /proyectos/
+      weight: 3
+    - name: Contacto
+      url: /contacto/
+      weight: 5

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300" viewBox="0 0 300 300" role="img" aria-labelledby="title desc">
+  <title id="title">Avatar placeholder</title>
+  <desc id="desc">Avatar circular con iniciales para reemplazar por una foto personal.</desc>
+  <rect width="300" height="300" fill="#ececec"/>
+  <circle cx="150" cy="120" r="54" fill="#232333"/>
+  <path d="M60 270c14-56 49-84 90-84s76 28 90 84" fill="#232333"/>
+  <text x="150" y="285" text-anchor="middle" font-family="Arial, sans-serif" font-size="32" fill="#dc143c">SH</text>
+</svg>
