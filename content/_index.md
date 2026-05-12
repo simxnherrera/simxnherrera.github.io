@@ -48,4 +48,4 @@ Me desempeño como **Analista de investigación y datos** en Focus Asesoramiento
 
 - **UN Datathon**, noviembre 2023 - *División de Estadística de las Naciones Unidas, Instituto Nacional de Estadística*
 - **Young Leaders Programme**, octubre 2023 - *College of Europe*
-- **Euromodelo Joven** - *Unión Europea, Universidad ORT*
+- **Euromodelo Joven**, septiembre 2023 - *Unión Europea, Universidad ORT*
