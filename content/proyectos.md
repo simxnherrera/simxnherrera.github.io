@@ -9,7 +9,7 @@ Moderé una serie de grupos de discusión y asistí en el procesamiento de la in
 
 ### *Fortalecimiento de la autogestión estudiantil mediante herramientas de manejo de datos: Co-construcción de un sistema de gestión de datos para los Servicios del CECSo* - FCS - 2025
 
-En el marco de un proyecto de extensión estudiantil, desarrollé junto a otros estudiantes una aplicación web basada en Shiny para manejo de stock y pedidos a proveedores de la cantina y fotocopiadora del Centro de Estudiantes de la Facultad de Ciencias Sociales.
+Desarrollé junto a otros estudiantes una aplicación web basada en Shiny para manejo de stock y pedidos a proveedores de la cantina y fotocopiadora del Centro de Estudiantes de la Facultad de Ciencias Sociales en el marco de un proyecto de extensión estudiantil.
 
 ### *Análisis documental sobre la política pública de drogas de Uruguay en el período 2000-2024* - Junta Nacional de Drogas y COPOLAD (UE) - 2025
 
