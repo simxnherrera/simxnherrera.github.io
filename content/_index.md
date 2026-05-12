@@ -34,7 +34,7 @@ Me desempeño como **Analista de investigación y datos** en Focus Asesoramiento
 
 ### Educación
 
-- **Lic. en Ciencia Política**, 2022 - 2026, Facultad de Ciencias sociales, *Universidad de la República*
+- **Lic. en Ciencia Política**, 2022 - 2026, Facultad de Ciencias Sociales, *Universidad de la República*
 - **Intercambio académico en Ciencia Política y Administración Pública**, enero - junio 2026 - Facultad de Derecho, *Universidad de Salamanca* - Programa piloto de movilidad estudiantil
 
 
