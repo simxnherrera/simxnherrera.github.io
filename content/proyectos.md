@@ -3,6 +3,10 @@ title: "Proyectos"
 description: "Proyectos profesionales y casos destacados."
 ---
 
+### *Panel semanal de opinión pública* - Presidencia de la República - 2025-2026
+
+Participé del diseño, implementación, procesamiento y presentación de resultados de un panel semanal de opinión pública.
+
 ### *Percepciones ciudadanas sobre la seguridad pública y recomendaciones estratégicas para comunicar el Plan Nacional de Seguridad Pública (PNSP)* - Ministerio del Interior - 2025-2026
 
 Moderé una serie de grupos de discusión y asistí en el procesamiento de la información y la presentación de los resultados.
@@ -30,3 +34,7 @@ Moderé una serie de grupos de discusión en el marco del proyecto.
 ### *Interés por intereses: Análisis del endeudamiento de los hogares y reglamentación del crédito en Uruguay* - IECON-FCEA, AEBU, IPRU - 2025
 
 Asistí a la moderación de grupos de discusión.
+
+### *Monitoreo diario de medios de comunicación en contexto electoral* - Consultoría política - 2024
+
+Participé en la elaboración de reportes diarios de medios de comunicación para el seguimiento de agenda, cobertura y temas emergentes durante el período electoral.

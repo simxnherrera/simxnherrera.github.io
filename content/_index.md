@@ -28,9 +28,9 @@ title: "Inicio"
 
 ### Lic. en Ciencia Política
 
-Soy estudiante avanzado de la **Lic. en Ciencia Política** en la *Universidad de la República*. En 2025 fui seleccionado por el Programa piloto de movilidad estudiantil para cursar el semestre de enero a junio de 2026 en la *Universidad de Salamanca* (España) y actualmente me encuentro trabajando en mi tesis de grado. 
+Soy estudiante avanzado de la **Lic. en Ciencia Política** en la *Universidad de la República*. En 2025 fui seleccionado por el Programa piloto de movilidad estudiantil para cursar el semestre de enero a junio de 2026 en la *Universidad de Salamanca* (España) y actualmente me encuentro trabajando en mi monografía de grado. 
 
-Me desempeño como **Analista de investigación y datos** en Focus Asesoramiento. Mi experiencia combina formación en ciencias sociales y métodos computacionales (cuali y cuanti) para realizar investigación social aplicada e informar decisiones de comunicación estratégica y de política pública. Lidero un equipo de jóvenes profesionales y atiendo reuniones de alto nivel.
+Me desempeño como **Analista de investigación y datos** en Focus Asesoramiento. Mi experiencia combina formación en ciencias sociales y métodos computacionales (cuali y cuanti) para realizar investigación social aplicada e informar decisiones de comunicación estratégica y de política pública.
 
 ### Educación
 
