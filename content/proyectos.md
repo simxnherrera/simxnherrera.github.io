@@ -3,7 +3,7 @@ title: "Proyectos"
 description: "Proyectos profesionales y casos destacados."
 ---
 
-### *Panel semanal de opinión pública* - Presidencia de la República - 2025-2026
+### *Panel semanal de opinión pública* - AMEPP, Presidencia de la República - 2025-2026
 
 Participé del diseño, implementación, procesamiento y presentación de resultados de un panel semanal de opinión pública.
 
